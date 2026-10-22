@@ -1,0 +1,161 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="description" content="Kurze Analysen und Erklärstücke der Ostdeutschen Allgemeinen. Jede Zahl im Bild nennt ihre Quelle."><meta property="og:title" content="OAZ Infografik-Videos"><meta property="og:description" content="Kurze Analysen und Erklärstücke zu Wirtschaft, Politik und Alltag."><meta property="og:image" content="https://setumismodore-eng.github.io/oaz-videos/thumbs/nudeln.jpg"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image"><style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style><title>OAZ Infografik-Videos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@600;700&display=swap">
+<style>
+/* Layout: Zeitungsseite – Kopf mit Kicker, ein Aufmacher-Video, darunter ein Raster; Rot nur als Akzent. */
+:root {
+  --paper: #F3F2E7;
+  --card: #FBFAF4;
+  --ink: #141414;
+  --sub: #5C5A52;
+  --rule: #DCD9CA;
+  --red: #EA333C;
+  --chip: #E9E7DA;
+  --serif: "Lora", Georgia, "Times New Roman", serif;
+  --sans: "Inter", "Helvetica Neue", Arial, system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #161513; --card: #1E1D1A; --ink: #EDEBE2; --sub: #A8A498; --rule: #34322D; --red: #F0525A; --chip: #2A2925;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #161513; --card: #1E1D1A; --ink: #EDEBE2; --sub: #A8A498; --rule: #34322D; --red: #F0525A; --chip: #2A2925;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--paper); color: var(--ink); font-family: var(--sans); font-size: 16px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 48px;
+}
+.wrap { max-width: 1180px; margin: 0 auto; display: grid; gap: 40px; }
+header { padding-block: 44px 8px; border-bottom: 2px solid var(--ink); display: grid; gap: 14px; }
+.kicker { display: flex; align-items: center; gap: 10px; font-size: 13px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+.kicker::before { content: ""; width: 14px; height: 14px; background: var(--red); flex: none; }
+h1 { font-family: var(--serif); font-weight: 700; font-size: clamp(36px, 6vw, 64px); line-height: 1.05; margin: 0; text-wrap: balance; letter-spacing: -.01em; }
+.lead { margin: 0 0 18px; max-width: 62ch; color: var(--sub); font-size: 17px; }
+.bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { font: 600 14px/1 var(--sans); padding: 9px 14px; border-radius: 999px; border: 1px solid var(--rule); background: transparent; color: var(--ink); cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.chip:focus-visible, video:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
+.count { color: var(--sub); font-size: 14px; font-variant-numeric: tabular-nums; }
+.player { position: relative; aspect-ratio: 16 / 9; max-width: 100%; background: var(--chip); overflow: hidden; }
+.player video { position: absolute; inset: 0; width: 100%; height: 100%; display: block; background: #000; object-fit: contain; }
+.player.empty video { display: none; }
+.play { position: absolute; right: 18px; bottom: 18px; width: 72px; height: 72px; border-radius: 50%;
+  border: 0; background: var(--red); cursor: pointer; box-shadow: 0 6px 24px rgba(0,0,0,.25); transition: transform .15s ease; }
+.play::after { content: ""; position: absolute; left: 29px; top: 22px; border-style: solid; border-width: 14px 0 14px 22px;
+  border-color: transparent transparent transparent #fff; }
+.play:hover { transform: scale(1.06); }
+.play:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
+.card .play { width: 52px; height: 52px; right: 12px; bottom: 12px; }
+.card .play::after { left: 20px; top: 15px; border-width: 11px 0 11px 17px; }
+.meta { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12px; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; color: var(--sub); font-variant-numeric: tabular-nums; }
+.meta .ton { color: var(--red); }
+.src { font-size: 13px; color: var(--sub); margin: 0; }
+.src b { font-weight: 600; color: var(--ink); }
+/* Aufmacher */
+.lead-video { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); gap: 28px; align-items: start; }
+.lead-video .text { display: grid; gap: 12px; min-width: 0; padding-top: 4px; }
+.lead-video h2 { font-family: var(--serif); font-size: clamp(26px, 3.2vw, 38px); line-height: 1.12; margin: 0; text-wrap: balance; }
+.lead-video p.desc { margin: 0; font-size: 16px; }
+.new { justify-self: start; font: 700 11px/1 var(--sans); letter-spacing: .1em; text-transform: uppercase; background: var(--red); color: #fff; padding: 6px 8px; }
+/* Raster */
+.grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 36px 28px; }
+.card { display: grid; gap: 10px; align-content: start; min-width: 0; padding-top: 14px; border-top: 1px solid var(--rule); }
+.card h3 { font-family: var(--serif); font-size: 21px; line-height: 1.2; margin: 0; text-wrap: balance; }
+.card p.teaser { margin: 0; font-size: 15px; }
+.card:target, .lead-video:target { scroll-margin-top: 24px; }
+.card:target h3, .lead-video:target h2 { color: var(--red); }
+footer { border-top: 1px solid var(--rule); padding-top: 16px; color: var(--sub); font-size: 13px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
+@media (max-width: 960px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .lead-video { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 600px) { .grid { grid-template-columns: minmax(0, 1fr); } header { padding-block: 28px 8px; } }
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+</style>
+
+</head><body><div class="wrap">
+  <header>
+    <div class="kicker">Ostdeutsche Allgemeine · Video</div>
+    <h1>Infografik-Videos</h1>
+    <p class="lead">Kurze Analysen und Erklärstücke zu Wirtschaft, Politik und Alltag. Jede Zahl im Bild nennt ihre Quelle.</p>
+  </header>
+
+  <section id="aufmacher" aria-label="Neuestes Video"></section>
+
+  <div class="bar">
+    <div class="chips" role="group" aria-label="Nach Form filtern">
+      <button class="chip" id="f-alle" data-f="" aria-pressed="true">Alle</button>
+      <button class="chip" id="f-analyse" data-f="Analyse" aria-pressed="false">Analyse</button>
+      <button class="chip" id="f-erklaer" data-f="Erklärstück" aria-pressed="false">Erklärstück</button>
+      <button class="chip" id="f-nachricht" data-f="Nachricht" aria-pressed="false">Nachricht</button>
+    </div>
+    <div class="count" id="count"></div>
+  </div>
+
+  <section class="grid" id="grid" aria-label="Alle Videos"></section>
+
+  <footer>
+    <span>Stimme: KI-generiert (ElevenLabs). Grafik und Recherche: Redaktion der Ostdeutschen Allgemeinen.</span>
+    <span>Stand: 22.10.2026</span>
+  </footer>
+</div>
+
+<script>
+const VIDEOS = [{"id": "nudeln", "form": "Erklärstück", "dauer": "1:12", "datum": "22.10.2026", "titel": "Zwei von drei Nudeln kommen aus Italien.", "teaser": "20 Packungen Nudeln isst jeder in Deutschland im Jahr – fast elf davon kommen aus Italien.", "beschreibung": "Gut 6,1 Millionen Tonnen Nudeln hat die EU 2025 hergestellt und verkauft, 69 Prozent davon in Italien. Deutschland liegt auf Platz drei. Doch rund drei Viertel der in Deutschland verkauften Nudeln sind importiert, mehr als die Hälfte stammt aus Italien.", "quellen": "Statistisches Bundesamt / Eurostat; VGMS", "video": "videos/nudeln.mp4", "thumb": "thumbs/nudeln.jpg"}, {"id": "roboter", "form": "Analyse", "dauer": "1:51", "datum": "22.10.2026", "titel": "Eine Milliarde Roboter. Schon in zehn Jahren?", "teaser": "13.000 heute, eine Milliarde in zehn Jahren? Die Rechnung hinter Musks Roboter-Prognose.", "beschreibung": "13.000 heute, eine Milliarde in zehn Jahren? Die Rechnung hinter Musks Roboter-Prognose.", "quellen": "CGTN; UN; Omdia; Counterpoint Research; MIIT China; Bank of America; OICA; Morgan Stanley", "video": "videos/roboter.mp4", "thumb": "thumbs/roboter.jpg"}, {"id": "industrie", "form": "Analyse", "dauer": "1:57", "datum": "21.10.2026", "titel": "Minus elf Prozent. Die Nachbarn legen zu.", "teaser": "Zehn Jahre, elf Prozent weniger: Wie Deutschlands Industrie hinter die Nachbarn zurückfällt.", "beschreibung": "Zehn Jahre, elf Prozent weniger: Wie Deutschlands Industrie hinter die Nachbarn zurückfällt.", "quellen": "Eurostat; ifo Dresden", "video": "videos/industrie.mp4", "thumb": "thumbs/industrie.jpg"}, {"id": "gasspeicher", "form": "Analyse", "dauer": "1:31", "datum": "21.10.2026", "titel": "61 Prozent. So leer wie nie.", "teaser": "61 Prozent voll: Warum die Gasspeicher vor dem Winter so leer sind.", "beschreibung": "61 Prozent voll: Warum die Gasspeicher vor dem Winter so leer sind.", "quellen": "GIE AGSI; ICE Endex / dpa-AFX", "video": "videos/gasspeicher.mp4", "thumb": "thumbs/gasspeicher.jpg"}, {"id": "vergesellschaftung", "form": "Analyse", "dauer": "3:16", "datum": "21.10.2026", "titel": "Neue Eigentümer, keine neue Wohnung.", "teaser": "16 Milliarden Euro für 160.000 Wohnungen – aber keine einzige zusätzliche.", "beschreibung": "16 Milliarden Euro für 160.000 Wohnungen – aber keine einzige zusätzliche.", "quellen": "Sondierungspapier Linke, Grüne, SPD; IBB; IMK; DIW", "video": "videos/vergesellschaftung.mp4", "thumb": "thumbs/vergesellschaftung.jpg"}, {"id": "politikerranking", "form": "Nachricht", "dauer": "1:24", "datum": "21.10.2026", "titel": "Pistorius vorn, Merz ganz hinten.", "teaser": "Schwesig holt auf, Weidel steigt – und drei Regierungsmitglieder bilden das Schlusslicht.", "beschreibung": "Schwesig holt auf, Weidel steigt – und drei Regierungsmitglieder bilden das Schlusslicht.", "quellen": "INSA im Auftrag der „Bild“", "video": "videos/politikerranking.mp4", "thumb": "thumbs/politikerranking.jpg"}, {"id": "ki-blase", "form": "Analyse", "dauer": "5:45", "datum": "21.10.2026", "titel": "Die KI halluziniert. Die Börse aber auch.", "teaser": "Billionen für Rechenzentren: Wer soll den KI-Boom eigentlich bezahlen?", "beschreibung": "Billionen für Rechenzentren: Wer soll den KI-Boom eigentlich bezahlen?", "quellen": null, "video": "videos/ki-blase.mp4", "thumb": "thumbs/ki-blase.jpg"}, {"id": "reiches-land", "form": "Analyse", "dauer": "4:07", "datum": "21.10.2026", "titel": "Reich – aber für wen?", "teaser": "Billionen Wirtschaftsleistung, kaum Rücklagen: Wem gehört der Reichtum in Deutschland?", "beschreibung": "Billionen Wirtschaftsleistung, kaum Rücklagen: Wem gehört der Reichtum in Deutschland?", "quellen": "UBS Global Wealth Report 2026; Statistisches Bundesamt; KfW-Kommunalpanel 2026; Deutsche Bahn", "video": "videos/reiches-land.mp4", "thumb": "thumbs/reiches-land.jpg"}, {"id": "zeitumstellung", "form": "Erklärstück", "dauer": "1:24", "datum": "21.10.2026", "titel": "2:30 Uhr. Zweimal.", "teaser": "Eine Stunde verschwindet, eine kommt doppelt: Warum wir die Uhren immer noch umstellen.", "beschreibung": "Eine Stunde verschwindet, eine kommt doppelt: Warum wir die Uhren immer noch umstellen.", "quellen": null, "video": "videos/zeitumstellung.mp4", "thumb": "thumbs/zeitumstellung.jpg"}];
+
+function el(tag, attrs, kids) {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) {
+    if (k === "text") n.textContent = v; else if (v !== null && v !== undefined) n.setAttribute(k, v);
+  }
+  (kids || []).forEach(c => c && n.appendChild(c));
+  return n;
+}
+function player(v) {
+  const box = el("div", { class: "player" + (v.video ? "" : " empty") });
+  if (v.thumb) box.style.backgroundImage = "url('" + v.thumb + "')", box.style.backgroundSize = "cover";
+  if (v.video) {
+    const vid = el("video", { preload: "none", playsinline: "", src: v.video,
+      poster: v.thumb || null, "aria-label": "Video: " + v.titel });
+    vid.addEventListener("play", () => document.querySelectorAll("video").forEach(o => { if (o !== vid) o.pause(); }));
+    const btn = el("button", { class: "play", type: "button", "aria-label": "Abspielen: " + v.titel });
+    btn.addEventListener("click", () => { vid.controls = true; btn.hidden = true; vid.play().catch(() => {}); });
+    box.append(vid, btn);
+  }
+  return box;
+}
+function meta(v) {
+  return el("div", { class: "meta" }, [el("span", { class: "ton", text: v.form }), el("span", { text: v.dauer }), el("span", { text: v.datum })]);
+}
+function quellen(v) {
+  if (!v.quellen) return null;
+  const p = el("p", { class: "src" }); p.append(el("b", { text: "Quellen: " }), document.createTextNode(v.quellen)); return p;
+}
+function render(filter) {
+  const [first, ...rest] = VIDEOS;
+  const top = document.getElementById("aufmacher");
+  top.replaceChildren(el("article", { class: "lead-video", id: first.id }, [
+    player(first),
+    el("div", { class: "text" }, [el("span", { class: "new", text: "Neu" }), meta(first), el("h2", { text: first.titel }),
+      el("p", { class: "desc", text: first.beschreibung }), quellen(first)])
+  ]));
+  const list = rest.filter(v => !filter || v.form === filter);
+  const grid = document.getElementById("grid");
+  grid.replaceChildren(...list.map(v => el("article", { class: "card", id: v.id }, [
+    player(v), meta(v), el("h3", { text: v.titel }), el("p", { class: "teaser", text: v.teaser }), quellen(v)])));
+  const n = VIDEOS.length;
+  document.getElementById("count").textContent = filter ? `${list.length} weitere · ${n} Videos insgesamt` : `${n} Videos`;
+}
+document.querySelectorAll(".chip").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll(".chip").forEach(o => o.setAttribute("aria-pressed", String(o === b)));
+  render(b.dataset.f);
+}));
+render("");
+const h = (location.hash || "").slice(1);
+if (h && /^[A-Za-z0-9._~-]+$/.test(h)) { const t = document.getElementById(h); if (t) t.scrollIntoView({ block: "start" }); }
+</script>
+</body></html>
