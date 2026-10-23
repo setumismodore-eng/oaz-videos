@@ -1,0 +1,30 @@
+# Quellen – Humanoide Roboter (OAZ INFO, Analyse)
+
+Geprüft am 22.10.2026.
+
+| Zahl / Aussage | Quelle | Stand |
+| --- | --- | --- |
+| Musk: mindestens 1 Mrd. humanoide Roboter in 10 Jahren, 10 Mrd. in 15, 100 Mrd. in 20 Jahren | [CGTN-Exklusivinterview](https://news.cgtn.com/news/2026-09-23/Exclusive-Musk-envisions-humanoid-robot-boom-praises-China-s-appeal-1QFJCvyYS4g/p.html) (Paraphrase durch CGTN) | 23.09.2026 |
+| 2025 weltweit rund 13.000 ausgelieferte Humanoide; AgiBot 5.168, Unitree 4.200, UBTech 1.000 | Omdia, via [TechNode](https://technode.com/2026/01/09/chinas-agibot-leads-global-humanoid-robot-shipments-in-2025-omdia-says/) | 09.01.2026 |
+| H1 2026: mehr als 22.000 Auslieferungen, fast +300 % ggü. Vorjahr; AgiBot ~9.700, Unitree >7.000; Gesamtjahr >50.000 erwartet | Counterpoint Research, via [The Standard](https://www.thestandard.com.hk/innovation/article/340494/Global-humanoid-robot-shipments-surge-300pc-in-H1-led-by-Agibot) | 20.08.2026 |
+| Unterhaltung/Vorführung und Datenerzeugung/Forschung derzeit größte Segmente; Industrie und Dienstleistung sollen in 5 Jahren überholen | Counterpoint, ebd. (Prozentwerte nicht belegt, daher nicht im Bild) | 20.08.2026 |
+| China: Produktion 2026 voraussichtlich über 100.000 | MIIT, Gan Xiaobin, Pressekonferenz 07.07.2026, via [Gasgoo](https://autonews.gasgoo.com/articles/news/miit-annual-humanoid-robot-production-expected-to-top-100000-units-this-year-2074840212818415617) | 07.07.2026 |
+| Bank of America: Auslieferungen ~90.000 (2026) → ~1,2 Mio. pro Jahr (2030); 3 Mrd. im Einsatz bis 2060 | BofA Global Research, via [Fortune](https://fortune.com/2026/03/13/bank-of-america-humanoid-robot-forecast-3-billion-2060) | 13.03.2026 |
+| Morgan Stanley: rund/mehr als 1 Mrd. Humanoide im Einsatz bis 2050, ~90 % gewerblich | [Morgan Stanley](https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050) | 14.05.2025 |
+| Unitree R1 Air: Markteinführung 4.900 $ (Juli 2025); R1 heute ca. 6.800–8.150 $ | [VnExpress](https://e.vnexpress.net/news/tech/enterprises/unitree-starts-selling-cheapest-humanoid-robot-from-6-800-5063068.html) | 16.04.2026 |
+| 1X Neo: 20.000 $ (alternativ 499 $/Monat) | [heise](https://heise.de/-10962668) | – |
+
+Nicht übernommen (nicht belegt oder nicht vergleichbar): 13.318 (genauer Omdia-Wert), 87 % China-Anteil, 60/13/5 % Einsatzfelder, Tesla „20.000 pro Woche“, Agile Robots 1.000–2.000, Datum „19.10.2026“ für die 100.000 (belegt ist der 07.07.2026).
+
+## Ergänzt in v02 (22.10.2026)
+
+| Zahl / Aussage | Quelle | Stand |
+| --- | --- | --- |
+| Weltbevölkerung 2046: rund 9,49 Mrd. (mittlere Variante) → 100 Mrd. Roboter = mehr als 10 pro Mensch | UN, World Population Prospects 2024, via [PopulationPyramid](https://www.populationpyramid.net/world/2046/) | Juli 2024 |
+| Weltweite Fahrzeugproduktion 2025: 96,4 Mio. (Pkw, Lkw, Busse) | [OICA](https://oica.net/auto-industry-growth-shifted-east-in-2025-amid-global-repositioning/) | 23.04.2026 |
+| BofA: Materialkosten pro Humanoid 35.000 $ (2025) → unter 17.000 $ (2030) | BofA Global Research, via [Fortune](https://fortune.com/2026/03/13/bank-of-america-humanoid-robot-forecast-3-billion-2060) | 13.03.2026 |
+| Rechnung: 1 Mrd. / 3.650 Tage = 273.973 pro Tag; H1 2026: 22.000 / 181 Tage ≈ 122 pro Tag; 1 Mrd. / 10 Jahre = 100 Mio. pro Jahr | OAZ-Berechnung nach CGTN und Counterpoint | – |
+
+## Bilder
+
+Keine Fotos im Video (Entscheidung 22.10.2026) – alle Motive sind Grafik.

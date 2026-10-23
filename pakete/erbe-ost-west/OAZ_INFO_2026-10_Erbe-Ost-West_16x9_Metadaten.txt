@@ -1,0 +1,27 @@
+# Metadaten – OAZ_INFO_2026-10_Erbe-Ost-West_16x9
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | 95 von 100 Euro. Das Erbe bleibt im Westen |
+| Kurztitel (Social, max. 40 Zeichen) | 95 % des Erbes gehen in den Westen |
+| Beschreibung | 150,5 Milliarden Euro wurden 2025 in Deutschland steuerpflichtig vererbt und verschenkt – so viel wie nie. 142,5 Milliarden davon entfielen auf den Westen, acht Milliarden auf den Osten einschließlich Berlin, obwohl dort fast jeder Fünfte lebt. Pro Kopf sind das rund 2.100 gegen knapp 500 Euro. Warum die Lücke so groß ist, was die Statistik gar nicht erfasst und wie Erbe in Sachsen aussieht – in 90 Sekunden. |
+| Kurzbeschreibung (Teaser) | Von 100 Euro Erbe gehen 95 in den Westen. Der Osten bekommt fünf – obwohl dort fast jeder Fünfte lebt. |
+| Schlagwörter | Erbschaft, Erbschaftsteuer, Schenkung, Ostdeutschland, Westdeutschland, Ost-West, Vermögen, DDR, Sachsen, Statistisches Bundesamt |
+| Kategorie | Nachrichten / Wirtschaft |
+| Marke | Ostdeutsche Allgemeine |
+| Format | Infografik-Video, 16:9, 1920 × 1080, 25 fps |
+| Dauer | ca. 1:37 |
+| Sprache | Deutsch |
+| Stimme | KI-generiert (ElevenLabs) |
+| Untertitel | `OAZ_INFO_2026-10_Erbe-Ost-West_16x9_v01.srt` (Deutsch) |
+| Video | `OAZ_INFO_2026-10_Erbe-Ost-West_16x9_v01.mp4` – https://github.com/setumismodore-eng/BLZOAZ/releases/tag/p-erbe-ost-west |
+| Thumbnails | `OAZ_INFO_2026-10_Erbe-Ost-West_16x9_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+
+## Quellen (für die Beschreibung)
+
+- Statistisches Bundesamt: Erbschaft- und Schenkungsteuerstatistik 2025, PM Nr. 306 vom 26.08.2026 (Gesamtsumme 150,5 Mrd. €, Steuer 21,4 Mrd. €)
+- Statistisches Bundesamt: Auswertung nach Ost und West, Ende September 2026 (West 142,5 Mrd. €, Ost inkl. Berlin 8,0 Mrd. €, pro Kopf, Steuer nach Gebieten)
+- Erbschaftsteuergesetz § 16: Freibetrag 400.000 € je Kind und Elternteil
+- Statistisches Landesamt Sachsen: Medieninformation 128/2025 (Erbschaftsteuerstatistik 2024)
+
+Hinweis: Die Statistik erfasst nur Erwerbe, für die Steuer festgesetzt wurde. Der Ost-Wert enthält Berlin.

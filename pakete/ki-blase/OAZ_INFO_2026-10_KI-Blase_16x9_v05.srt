@@ -1,0 +1,545 @@
+1
+00:00:04,000 --> 00:00:06,923
+Es gibt schlechte Nachrichten
+aus dem Silicon Valley.
+
+2
+00:00:07,226 --> 00:00:09,756
+Anthropic, einer der größten
+Stars der KI-Branche,
+
+3
+00:00:09,796 --> 00:00:13,170
+hat gerade seine
+Geschäftszahlen veröffentlicht.
+
+4
+00:00:13,210 --> 00:00:14,911
+16,8 Milliarden Dollar Umsatz.
+
+5
+00:00:14,951 --> 00:00:16,451
+In nur drei Monaten.
+
+6
+00:00:16,491 --> 00:00:18,855
+45 Prozent mehr als im Quartal davor!
+
+7
+00:00:18,895 --> 00:00:20,357
+Und die Investoren?
+
+8
+00:00:20,397 --> 00:00:22,200
+Manche sind enttäuscht.
+
+9
+00:00:22,240 --> 00:00:24,291
+Weil das Wachstum vorher noch größer war.
+
+10
+00:00:24,331 --> 00:00:28,306
+Das wäre vielleicht nur eine weitere
+kuriose Geschichte aus dem Silicon Valley.
+
+11
+00:00:28,429 --> 00:00:30,885
+Hinge an diesen Erwartungen
+nicht inzwischen eine der
+
+12
+00:00:30,925 --> 00:00:33,552
+größten Investitionswetten
+der Wirtschaftsgeschichte.
+
+13
+00:00:33,592 --> 00:00:37,239
+Denn während wir darüber diskutieren,
+welches KI-Modell das bessere ist,
+
+14
+00:00:37,279 --> 00:00:39,712
+passiert im Hintergrund
+etwas viel Größeres.
+
+15
+00:00:39,752 --> 00:00:43,780
+Die Technologiekonzerne bauen eine
+gigantische neue Infrastruktur.
+
+16
+00:00:43,820 --> 00:00:44,762
+Rechenzentren.
+
+17
+00:00:44,802 --> 00:00:49,409
+Riesige Hallen voller Spezialchips,
+Server, Kühlanlagen und Stromversorgung.
+
+18
+00:00:49,449 --> 00:00:51,769
+Diese Maschinen liefern
+die Rechenleistung,
+
+19
+00:00:51,809 --> 00:00:53,238
+um KI-Modelle zu trainieren.
+
+20
+00:00:53,278 --> 00:00:57,440
+Und um sie anschließend Millionen Menschen
+gleichzeitig zur Verfügung zu stellen.
+
+21
+00:00:57,480 --> 00:01:00,761
+Die großen Anbieter solcher
+Infrastruktur nennt man Hyperscaler.
+
+22
+00:01:01,100 --> 00:01:03,528
+Dazu gehören Amazon, Microsoft und Google.
+
+23
+00:01:03,568 --> 00:01:06,519
+Und jetzt kommen wir zu
+den eigentlichen Zahlen.
+
+24
+00:01:06,559 --> 00:01:09,285
+Seit Beginn des KI-Booms
+im Jahr 2023 haben
+
+25
+00:01:09,325 --> 00:01:12,403
+allein Amazon, Microsoft, Google und Meta
+
+26
+00:01:12,443 --> 00:01:15,533
+zusammen mehr als 1,1
+Billionen Dollar in Gebäude,
+
+27
+00:01:15,876 --> 00:01:18,240
+Technik und Infrastruktur investiert.
+
+28
+00:01:18,280 --> 00:01:20,232
+Und das war erst der Anfang.
+
+29
+00:01:20,272 --> 00:01:23,471
+Für 2026 planen die vier
+Konzerne Sachinvestitionen
+
+30
+00:01:24,269 --> 00:01:26,965
+von insgesamt rund 745 Milliarden Dollar.
+
+31
+00:01:27,005 --> 00:01:28,829
+In einem einzigen Jahr.
+
+32
+00:01:28,989 --> 00:01:32,404
+Der wichtigste Treiber dieses
+Ausbaus ist künstliche Intelligenz.
+
+33
+00:01:32,662 --> 00:01:35,964
+Anthropic selbst hat sich
+verpflichtet, langfristig mindestens
+
+34
+00:01:36,004 --> 00:01:39,627
+518 Milliarden Dollar für Cloud-
+und Rechenkapazitäten auszugeben.
+
+35
+00:01:39,667 --> 00:01:41,717
+Geld, das zu großen Teilen bei genau
+
+36
+00:01:41,757 --> 00:01:44,203
+diesen Infrastrukturbetreibern
+landen wird.
+
+37
+00:01:44,243 --> 00:01:47,171
+Wir sprechen also nicht mehr über
+ein paar ehrgeizige Start-ups.
+
+38
+00:01:47,330 --> 00:01:48,958
+Sondern über eine ganze Industrie,
+
+39
+00:01:48,998 --> 00:01:52,214
+die ihre Investitionen schon heute
+auf eine Nachfrage ausrichtet,
+
+40
+00:01:52,254 --> 00:01:55,185
+von der sie hofft, dass sie
+morgen groß genug sein wird.
+
+41
+00:01:55,225 --> 00:01:57,467
+Der Gedanke dahinter heißt Skalierung.
+
+42
+00:01:57,507 --> 00:02:00,212
+Bisher galt: Je mehr
+Rechenleistung man einer KI
+
+43
+00:02:00,252 --> 00:02:02,880
+zur Verfügung stellt, desto
+intelligenter wird sie.
+
+44
+00:02:02,920 --> 00:02:04,830
+So banal das klingt, genau das hat die
+
+45
+00:02:04,870 --> 00:02:06,981
+heutigen Modelle so
+leistungsfähig gemacht.
+
+46
+00:02:07,021 --> 00:02:10,230
+Die Frage ist nur, ob das Geschäft
+irgendwann hinterherkommt.
+
+47
+00:02:10,270 --> 00:02:12,857
+So oder so: Die Infrastruktur wird gebaut.
+
+48
+00:02:12,897 --> 00:02:16,040
+Und das Ganze kommt einem
+irgendwie bekannt vor.
+
+49
+00:02:16,080 --> 00:02:20,912
+Im 19. Jahrhundert war die Eisenbahn
+die große Zukunftstechnologie.
+
+50
+00:02:20,952 --> 00:02:22,721
+In den USA konkurrierten zwei
+
+51
+00:02:22,761 --> 00:02:25,408
+Eisenbahngesellschaften
+so erbittert miteinander,
+
+52
+00:02:25,448 --> 00:02:29,731
+dass sie in Utah teilweise kilometerweit
+parallele Bahndämme bauten.
+
+53
+00:02:29,771 --> 00:02:30,620
+Zwei Trassen.
+
+54
+00:02:30,660 --> 00:02:31,646
+Nebeneinander.
+
+55
+00:02:31,686 --> 00:02:35,410
+Denn niemand wollte im Wettlauf
+um die Zukunft zurückbleiben.
+
+56
+00:02:35,450 --> 00:02:38,274
+Die Eisenbahn hat anschließend
+die Welt verändert.
+
+57
+00:02:38,314 --> 00:02:41,977
+Die überflüssigen Bahndämme waren
+trotzdem eine Fehlinvestition.
+
+58
+00:02:42,017 --> 00:02:43,859
+Und genau deshalb lohnt es sich,
+
+59
+00:02:43,899 --> 00:02:46,984
+bei der gegenwärtigen
+KI-Euphorie genauer hinzusehen.
+
+60
+00:02:47,024 --> 00:02:49,339
+Wer soll das alles eigentlich bezahlen?
+
+61
+00:02:49,660 --> 00:02:51,961
+Denn es gibt inzwischen
+berechtigte Zweifel,
+
+62
+00:02:52,001 --> 00:02:54,199
+ob die gewaltigen Investitionen jemals die
+
+63
+00:02:54,239 --> 00:02:56,848
+noch gewaltigeren
+erhofften Gewinne abwerfen.
+
+64
+00:02:56,888 --> 00:03:00,894
+Stutzig macht dabei die Vorliebe der
+KI-Branche für sogenannte Run Rates.
+
+65
+00:03:01,090 --> 00:03:03,286
+Dabei nimmt man zum Beispiel den Umsatz
+
+66
+00:03:03,326 --> 00:03:05,899
+eines besonders starken
+Monats oder Quartals
+
+67
+00:03:05,939 --> 00:03:08,700
+und rechnet ihn auf ein ganzes Jahr hoch.
+
+68
+00:03:08,740 --> 00:03:12,060
+Aus den 16,8 Milliarden Dollar
+Quartalsumsatz von Anthropic
+
+69
+00:03:12,380 --> 00:03:16,325
+werden so auf einmal rund 67
+Milliarden Dollar Jahresumsatz.
+
+70
+00:03:16,365 --> 00:03:19,535
+Analysten halten bis zum
+Jahresende sogar eine
+
+71
+00:03:19,707 --> 00:03:22,201
+Run Rate von 110 Milliarden
+Dollar für möglich.
+
+72
+00:03:22,241 --> 00:03:25,474
+Dabei hat Anthropic in den
+ersten neun Monaten dieses
+
+73
+00:03:25,514 --> 00:03:28,224
+Jahres erst rund 33
+Milliarden Dollar eingenommen.
+
+74
+00:03:28,264 --> 00:03:30,794
+Natürlich sind solche
+Hochrechnungen erlaubt.
+
+75
+00:03:30,834 --> 00:03:33,928
+Bei schnell wachsenden Unternehmen
+sind sie sogar sinnvoll.
+
+76
+00:03:33,968 --> 00:03:36,766
+Aber wenn vor allem Run Rates
+die Schlagzeilen bestimmen,
+
+77
+00:03:36,806 --> 00:03:38,676
+wird es immer schwieriger zu erkennen,
+
+78
+00:03:38,716 --> 00:03:42,379
+wo die tatsächlichen Zahlen aufhören
+und das Wunschdenken beginnt.
+
+79
+00:03:42,419 --> 00:03:45,935
+Zumal auch die Zusammensetzung
+dieser Umsätze Fragen aufwirft.
+
+80
+00:03:45,975 --> 00:03:48,593
+Der Zahlungsdienstleister
+Ramp hat untersucht,
+
+81
+00:03:48,633 --> 00:03:53,059
+wie amerikanische Unternehmen für
+künstliche Intelligenz bezahlen.
+
+82
+00:03:53,099 --> 00:03:55,603
+Das Ergebnis: 80 Prozent
+der erfassten Ausgaben
+
+83
+00:03:55,643 --> 00:03:57,856
+von Geschäftskunden für
+OpenAI und Anthropic
+
+84
+00:03:58,108 --> 00:04:01,586
+stammen von gerade einmal
+einem Prozent der Unternehmen.
+
+85
+00:04:01,626 --> 00:04:06,144
+Anthropic hat sogar erklärt, dass
+zeitweise schätzungsweise 5 bis
+
+86
+00:04:06,184 --> 00:04:09,944
+7 Prozent seines Umsatzes aus
+sogenannter Destillation stammten.
+
+87
+00:04:09,984 --> 00:04:13,608
+Dabei nutzen andere KI-Entwickler
+die Antworten von Claude,
+
+88
+00:04:13,648 --> 00:04:15,785
+um ihre eigenen Modelle zu verbessern.
+
+89
+00:04:15,825 --> 00:04:18,059
+Darunter auch chinesische Konkurrenten.
+
+90
+00:04:18,460 --> 00:04:20,635
+Anthropic geht inzwischen dagegen vor.
+
+91
+00:04:20,675 --> 00:04:21,828
+Verständlicherweise.
+
+92
+00:04:21,868 --> 00:04:26,452
+Nur bedeutet das eben auch, dass ein Teil
+dieses Umsatzes künftig wegfallen könnte.
+
+93
+00:04:26,492 --> 00:04:29,063
+Und damit kommen wir zum
+zweiten großen Problem.
+
+94
+00:04:29,103 --> 00:04:30,790
+Womöglich überschätzt die Branche,
+
+95
+00:04:30,830 --> 00:04:33,702
+wie viel Rechenleistung ihre
+Kunden überhaupt brauchen.
+
+96
+00:04:33,742 --> 00:04:35,565
+Ein Dokument zusammenfassen.
+
+97
+00:04:35,605 --> 00:04:37,107
+Eine Frage beantworten.
+
+98
+00:04:37,147 --> 00:04:40,380
+Eine Präsentation oder
+einen Projektplan erstellen.
+
+99
+00:04:40,420 --> 00:04:44,244
+Dafür reichen häufig deutlich
+kleinere und günstigere Modelle.
+
+100
+00:04:44,284 --> 00:04:46,659
+Mit ihnen wird man vermutlich
+keinen Krebs heilen.
+
+101
+00:04:46,699 --> 00:04:49,521
+Aber den Großteil der alltäglichen
+Aufgaben erledigen sie.
+
+102
+00:04:49,561 --> 00:04:53,400
+Es ist, als würde die Autoindustrie
+nur noch Formel-1-Wagen bauen,
+
+103
+00:04:53,440 --> 00:04:56,938
+obwohl die meisten Menschen einfach
+nur zum Supermarkt fahren wollen.
+
+104
+00:04:56,978 --> 00:05:00,108
+Natürlich wird es immer
+anspruchsvollere Anwendungen geben.
+
+105
+00:05:00,148 --> 00:05:04,867
+Und trotzdem ist längst nicht ausgemacht,
+dass Nutzerinnen und Nutzer bereit sind,
+
+106
+00:05:04,907 --> 00:05:08,436
+für jede neue Modellgeneration
+immer mehr zu bezahlen.
+
+107
+00:05:08,476 --> 00:05:12,781
+Hinzu kommt: Künstliche Intelligenz
+wird nicht nur immer leistungsfähiger.
+
+108
+00:05:12,821 --> 00:05:15,185
+Sie wird gleichzeitig auch immer billiger.
+
+109
+00:05:15,225 --> 00:05:17,878
+Bei Anthropic ist der
+durchschnittliche Preis pro
+
+110
+00:05:17,918 --> 00:05:20,729
+verarbeiteter Texteinheit,
+einem sogenannten Token,
+
+111
+00:05:20,769 --> 00:05:24,266
+seit Anfang 2025 um rund
+68 Prozent gefallen.
+
+112
+00:05:24,306 --> 00:05:27,489
+Für uns Nutzer ist das fantastisch.
+
+113
+00:05:27,649 --> 00:05:31,678
+Für eine Industrie, die gerade Billionen
+in ihre Infrastruktur investiert,
+
+114
+00:05:31,718 --> 00:05:33,677
+ist es eine kompliziertere Rechnung.
+
+115
+00:05:33,717 --> 00:05:36,265
+Die KI-Konzerne müssen
+also nicht nur beweisen,
+
+116
+00:05:36,305 --> 00:05:38,539
+dass die Welt ihre Technologie braucht.
+
+117
+00:05:38,579 --> 00:05:42,450
+Sondern auch, dass die Welt bereit
+ist, genug dafür zu bezahlen.

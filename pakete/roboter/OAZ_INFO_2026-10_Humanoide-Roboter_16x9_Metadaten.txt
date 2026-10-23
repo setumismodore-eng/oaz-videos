@@ -1,0 +1,21 @@
+# Metadaten – OAZ_INFO_2026-10_Humanoide-Roboter_16x9_v02
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | Eine Milliarde Roboter. Schon in zehn Jahren? |
+| Langtitel | Humanoide Roboter: Was Musk verspricht – und was heute tatsächlich gebaut wird |
+| Kurztitel (Social, max. 40 Zeichen) | Eine Milliarde Roboter in zehn Jahren? |
+| Beschreibung | Elon Musk sagt eine Milliarde humanoide Roboter in zehn Jahren voraus, hundert Milliarden in zwanzig. 2025 wurden weltweit rund 13.000 ausgeliefert, die meisten von chinesischen Herstellern. Der Markt wächst schnell, die Kosten sinken. Doch für Musks Prognose müssten ab sofort jeden Tag rund 274.000 Roboter gebaut werden – mehr, als die Welt an Fahrzeugen herstellt. Morgan Stanley rechnet mit einer Milliarde bis 2050. |
+| Kurzbeschreibung (Teaser) | 13.000 heute, eine Milliarde in zehn Jahren? Die Rechnung hinter Musks Roboter-Prognose. |
+| Schlagwörter | Humanoide Roboter, Elon Musk, Tesla Optimus, Unitree, AgiBot, UBTech, China, Robotik, Morgan Stanley, Bank of America, KI |
+| Kategorie | Wirtschaft / Technik / Analyse |
+| Marke | Ostdeutsche Allgemeine |
+| Format | Infografik-Video, 16:9, 1920 × 1080, 25 fps |
+| Dauer | 1:51 |
+| Sprache | Deutsch |
+| Stimme | ElevenLabs, Eleven v4, Stimme „olbert2“ (KI-Stimme) |
+| Untertitel | `OAZ_INFO_2026-10_Humanoide-Roboter_16x9_v02.srt` (Deutsch, Zeiten aus den ElevenLabs-Zeitmarken) |
+| Thumbnails | `OAZ_INFO_2026-10_Humanoide-Roboter_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+| Quellen im Video | CGTN (Interview Musk, 23.09.2026); UN World Population Prospects 2024; Omdia (Jan. 2026); Counterpoint Research (Aug. 2026); MIIT China (07.07.2026); Bank of America Global Research (März 2026); Unitree (Preis R1 Air, Juli 2025); OICA (Fahrzeugproduktion 2025); Morgan Stanley (Mai 2025); eigene Berechnung |
+| Bilder | Keine Fotos – reine Grafik. |
+| Bewusst weggelassen | Genauer Omdia-Wert 13.318, China-Anteil 87 %, Einsatzfeld-Prozente, Tesla „20.000 pro Woche“, Agile Robots – nicht belegt. |

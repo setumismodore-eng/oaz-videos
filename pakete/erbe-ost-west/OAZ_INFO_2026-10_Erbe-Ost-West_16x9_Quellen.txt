@@ -1,0 +1,22 @@
+# Quellen · Erbe Ost-West (OAZ INFO 16:9)
+
+Geprüft am 23.10.2026. Artikel: OAZ, 29.09.2026, „95 Prozent des Erbes gehen in den Westen – und die DDR ist ein Grund dafür“, https://ostdeutscheallgemeine.com/article/95-prozent-des-erbes-gehen-in-den-westen-und-die-ddr-ist-ein-grund-dafuer-10442318 (frei lesbar).
+
+| Zahl im Skript / Bild | Quelle | Stand | Status |
+| --- | --- | --- | --- |
+| West 142,5 Mrd. € (95 %), Ost inkl. Berlin 8,0 Mrd. € (5 %) steuerlich berücksichtigte Erbschaften und Schenkungen 2025 | Statistisches Bundesamt, Pressemitteilung Ende September 2026, wiedergegeben bei DATEV: https://www.datev.de/web/de/berufsgruppenuebergreifend/nachrichten/ndsr/steuern/95-Prozent-Gesamtwerts-steuerpflichtiger-Erbschaften-Schenkungen-2025 | 28./29.09.2026 | geprüft (Wortlaut Destatis über DATEV; Original auf destatis.de nicht direkt aufgerufen) |
+| Pro Kopf West „gut 2.100 €“ (DATEV) bzw. „knapp 2.100 €“ (OAZ) → im Skript „rund 2.100“; Ost knapp 500 €; Bund gut 1.800 € | ebd. | 2025 | geprüft; West-Rundung abweichend zwischen DATEV und Artikel, daher „rund“ |
+| Ost knapp 19 % der Bevölkerung → „fast jeder Fünfte“ | ebd. | 2025 | geprüft |
+| „Mehr als das Vierfache“ | ebd. (Überschrift: „mehr als viermal so viel“) | 2025 | geprüft |
+| Gesamt 150,5 Mrd. €, Rekord (+32,9 %) | Statistisches Bundesamt, PM Nr. 306 vom 26.08.2026, https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/08/PD26_306_736.html | 26.08.2026 | geprüft |
+| Festgesetzte Steuer 21,4 Mrd. € (+60,8 %), Höchstwert | ebd. | 26.08.2026 | geprüft |
+| Steuer West 20,4 Mrd. €, Ost inkl. Berlin 1,0 Mrd. € | Destatis via DATEV (s. o.) | 2025 | geprüft |
+| Freibetrag 400.000 € je Kind und Elternteil | § 16 Abs. 1 Nr. 2 ErbStG; im Artikel genannt | geltendes Recht | geprüft |
+| Sachsen 2024: knapp 2.400 steuerrelevante Nachlassfälle, Gesamtwert 609 Mio. € | Statistisches Landesamt Sachsen, Medieninformation 128/2025 vom 23.09.2025, https://www.statistik.sachsen.de/download/presse-2025/mi_statistik-sachsen-128-2025_erbschaftsteuer-schenkungsteuer-2024.pdf | 23.09.2025 | geprüft |
+| Sachsen: Bankguthaben 37 %, Grundvermögen 27 % des Nachlassvermögens | ebd. | 2024 | geprüft |
+| Sachsen: 64 % der Erbfälle unter 50.000 € steuerpflichtigem Erwerb → „fast zwei Drittel“ | ebd. | 2024 | geprüft |
+| DDR, Wertverlust Häuser, Arbeitslosigkeit/Löhne als Gründe | OAZ-Artikel (Einordnung, keine Zahl) | – | nur gesprochen, ohne Zahl |
+
+**Abweichung zum Artikel:** Der Artikel nennt für Sachsen „rund 75 Mio. €“ Erbschaftsteuer. Laut Landesamt waren es 65 Mio. € Erbschaftsteuer; 75,4 Mio. € ist Erbschaft- plus Schenkungsteuer. Im Video nicht verwendet.
+
+**Nicht verwendet:** MDR-Pro-Kopf-Werte 2022 (Sachsen 84 €, Thüringen 69 €, Sachsen-Anhalt 65 €, Bayern rund 1.300 €) – nicht an der Primärquelle geprüft. Haushaltsvermögen Ost/West 2023 (125.500 / 257.100 €, laut ZDF) – nicht geprüft. BVerfG-Verfahren zur Erbschaftsteuer (Verhandlung Oktober 2026) – Anlass, aber nicht im Skript.

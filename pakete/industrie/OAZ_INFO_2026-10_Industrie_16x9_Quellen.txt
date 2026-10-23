@@ -1,0 +1,34 @@
+# Quellen – Industrie (Minus elf Prozent. Die Nachbarn legen zu.)
+
+Geprüft am 21.10.2026.
+
+## Eurostat – Industrieproduktion, Jahresindex (sts_inpr_a)
+B–D (Bergbau, verarbeitendes Gewerbe, Energie; ohne Bau), kalenderbereinigt, Index 2021 = 100, Stand 15.10.2026.
+Link: https://ec.europa.eu/eurostat/databrowser/view/sts_inpr_a/default/table?lang=en
+
+| Land | 2015 | 2021 | 2025 | 2015→2025 | 2015→2021 | 2021→2025 |
+|---|---|---|---|---|---|---|
+| Deutschland | 103,5 | 99,3 | 92,3 | −10,8 % | −4,1 % | −7,0 % |
+| Polen | 73,1 | 100 | 112,8 | +54,3 % | | |
+| Dänemark | 87,0 | 99,8 | 128,9 | +48,2 % | | |
+| Schweiz | 83,3 | 100 | 113,0 | +35,7 % | | |
+| Belgien | 72,8 | 100 | 90,4 | +24,2 % | | |
+| Österreich | 83,9 | 99,6 | 103,3 | +23,1 % | | |
+| Tschechien | 89,9 | 99,7 | 102,0 | +13,5 % | | |
+| Niederlande | 96,7 | 99,8 | 101,1 | +4,6 % | | |
+| Frankreich | 102,6 | 100 | 102,4 | −0,2 % | | |
+| Luxemburg | 104,6 | 100 | 91,3 | −12,7 % | | |
+
+Alle Werte im Artikel stimmen mit Eurostat überein. 7 von 9 Nachbarn mit Plus.
+
+## ifo Dresden – Pressemitteilung 19.10.2026 (Ragnitz, „Sektoraler Strukturwandel in Deutschland 2019–2025“, ifo Dresden berichtet 5/2026)
+Link: https://www.ifo.de/en/press-release/2026-10-19/german-industry-has-lost-nearly-half-million-jobs-2019
+- Industrie: −496.000 sozialversicherungspflichtig Beschäftigte, 31.12.2018 → 31.12.2025, −7,1 %
+- Auto inkl. Zulieferer −123.500 (−13 %), Metallerzeugnisse −115.600, Maschinenbau −64.500; zusammen ca. 60 %
+- Inkl. Leiharbeit ca. −628.000 (nicht im Skript)
+- Ursache laut Ragnitz: wahrscheinlich sinkende Wettbewerbsfähigkeit, v. a. gegenüber China
+- Öffentlicher Dienst +329.000 – bewusst nicht im Skript (kein ursächlicher Zusammenhang belegt)
+
+## Nicht im Skript (ungeprüft)
+- OECD: dänische Pharmaproduktion seit 2020 mehr als verdoppelt; Polen-Wachstumstreiber
+- OECD-Prognosen 2026/2027

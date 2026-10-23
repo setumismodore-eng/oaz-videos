@@ -1,0 +1,20 @@
+# Quellen · BER ohne Ryanair-Basis (OAZ INFO 16:9)
+
+Geprüft am 22.10.2026. Artikel: OAZ, 21.10.2026, „Ryanair streicht Flüge ab BER: Diese Reiseziele sind betroffen“ – auf ostdeutscheallgemeine.com in diesem Lauf nicht abrufbar, gleicher Text unter https://www.berliner-zeitung.de/article/ryanair-streicht-fluege-vom-ber-diese-orte-erreichen-sie-dann-nicht-mehr-von-berlin-aus-10517754 gelesen.
+
+| Zahl im Skript / Bild | Quelle | Stand | Status |
+| --- | --- | --- | --- |
+| Basis am BER schließt zum 24.10.2026 | Ryanair, Pressemitteilung „Ryanair schließt ab Oktober 2026 die Berliner Basis mit 7 Flugzeugen“, https://corporate.ryanair.com/nachrichten/ryanair-schliesst-ab-oktober-2026-die-berliner-basis-mit-7-flugzeugen/ | 24.04.2026 | geprüft |
+| 7 Flugzeuge abgezogen | ebd. | 24.04.2026 | geprüft |
+| Winterangebot −50 % | ebd. | 24.04.2026 | geprüft (Ryanair-Angabe) |
+| 4,5 → 2,2 Mio. Ryanair-Fluggäste in Berlin bis 2027 | ebd. (eigene Prognose) | 24.04.2026 | geprüft als Ryanair-Prognose; Entwicklungsstadt nennt abweichend „rund 5 → 2,5 Mio.“ |
+| 12 gestrichene Ziele: Fuerteventura, Gran Canaria, Lanzarote, Bologna, Palermo, Pisa, Reggio Calabria, Triest, Marseille, Thessaloniki, Tallinn, Vilnius | AirHelp, https://www.airhelp.de/flugverkehr-news/ryanair-berlin-basisschliessung-streichung-von-zwoelf-strecken-13102026/ (Liste laut Ryanair am 8.10. bestätigt); deckungsgleich OAZ/BZ 21.10. und Entwicklungsstadt 9.10. (https://www.entwicklungsstadt.de/neue-flugziele-ab-ber-was-sich-fuer-reisende-im-winter-2026-aendert/) | 14.10.2026 | drei Quellen übereinstimmend; keine Ryanair-Liste im Original gefunden |
+| Flughafenentgelte „+50 % seit Corona“ | nur Ryanair (Pressemitteilung 24.04.2026) | – | **ungeprüft** – nur gesprochen und als Ryanair-Behauptung (Konjunktiv), nicht im Bild. Abgleich mit Entgeltordnung FBB offen |
+| Luftverkehrsteuer Kurzstrecke 15,53 € → 13,03 € je Fluggast ab 1.7.2026 (−2,50 €) | Bundesregierung, „Luftverkehrsteuer ab 1. Juli gesenkt“, https://www.bundesregierung.de/breg-de/aktuelles/senkung-luftverkehrsteuer-2418542 | 01.07.2026 | geprüft |
+| Fluggäste 2019: mehr als 35,6 Mio. (Rekordjahr; damals Tegel + Schönefeld) | Amt für Statistik Berlin-Brandenburg, PM 15/2026, https://www.statistik-berlin-brandenburg.de/presse/2026/15-gewerblicher-luftverkehr | 09.02.2026 | geprüft |
+| Fluggäste 2025: 26 Mio. (+2,3 %) | ebd. | 09.02.2026 | geprüft |
+| Starts und Landungen 2025: fast 185.000, −33,5 % ggü. 2019 | ebd. | 09.02.2026 | geprüft |
+| 1. Halbjahr 2026: 11,9 Mio. Fluggäste, −1,2 % ggü. Vorjahr | Amt für Statistik Berlin-Brandenburg, PM 104/2026, https://www.statistik-berlin-brandenburg.de/presse/2026/104-gewerblicher-luftverkehr | 2026 (Q2-Meldung) | geprüft |
+| 2,3 Mio. weniger = 8,8 % von 26 Mio. → „fast jeder elfte“ | OAZ-Berechnung aus Ryanair-Prognose und Amt für Statistik | – | Rechnung; Annahme: kein Ausgleich durch andere Airlines |
+
+Nicht verwendet: Warschau-Vergleich (Eurostat via Euronews, nicht an Eurostat geprüft); Verlegung „nach Warschau-Modlin“ (Ryanair selbst nennt Schweden, Slowakei, Albanien, Italien); Steuer „7,30 → 15,50 €“ (Ryanair-Zahl, älterer Ausgangswert).

@@ -1,0 +1,21 @@
+# Metadaten – OAZ_INFO_2026-10_Nudeln_16x9_v01
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | Zwei von drei Nudeln kommen aus Italien. |
+| Langtitel | Nudeln in der EU: Italien stellt 69 Prozent her – und auf deutschen Tellern liegt vor allem Importware |
+| Kurztitel (Social, max. 40 Zeichen) | 3 von 4 Nudeln kommen aus dem Ausland |
+| Beschreibung | Gut 6,1 Millionen Tonnen Nudeln hat die EU 2025 hergestellt und verkauft – 69 Prozent davon in Italien. Deutschland liegt mit gut 304.000 Tonnen auf Platz drei, und fast jede zweite deutsche Nudel enthält Ei. Doch rund drei Viertel der in Deutschland verkauften Nudeln sind importiert, mehr als die Hälfte stammt aus Italien. Pro Kopf sind das rund 20 Packungen im Jahr – fast elf davon rechnerisch aus Italien. |
+| Kurzbeschreibung (Teaser) | 20 Packungen Nudeln isst jeder in Deutschland im Jahr – fast elf davon kommen aus Italien. |
+| Schlagwörter | Nudeln, Pasta, Teigwaren, Italien, Spanien, EU, Statistisches Bundesamt, Eurostat, VGMS, Weltnudeltag, Lebensmittel, Import |
+| Kategorie | Wirtschaft / Verbraucher / Erklärstück |
+| Marke | Ostdeutsche Allgemeine |
+| Format | Infografik-Video, 16:9, 1920 × 1080, 25 fps |
+| Dauer | 1:12 |
+| Sprache | Deutsch |
+| Stimme | ElevenLabs, Eleven v4, Stimme „olbert2“ (KI-Stimme) |
+| Untertitel | `OAZ_INFO_2026-10_Nudeln_16x9_v01.srt` (Deutsch, Zeiten aus den ElevenLabs-Zeitmarken) |
+| Thumbnails | `OAZ_INFO_2026-10_Nudeln_THUMB-Titel.png` (Standard, „3 von 4 Nudeln kommen aus dem Ausland.“), `…_THUMB.png` (ohne Text) |
+| Quellen im Video | Statistisches Bundesamt, Zahl der Woche Nr. 43 vom 20.10.2026 (Eurostat PRODCOM); VGMS, Teigwarenmarkt Wirtschaftsjahr 2025/26; eigene Berechnung |
+| Artikel | OAZ, Harald Neuber, 21.10.2026 |
+| Bewusst weggelassen | Importzahl 2024 (469.700 t, 86 % Italien) aus dem Artikel – andere Abgrenzung; Produktion 2024 und „seit 1990 verdoppelt“ – nicht belegt. |

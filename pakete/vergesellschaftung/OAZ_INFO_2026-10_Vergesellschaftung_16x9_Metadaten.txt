@@ -1,0 +1,19 @@
+# Metadaten – OAZ_INFO_2026-10_Vergesellschaftung_16x9_v01
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | Neue Eigentümer, keine neue Wohnung. |
+| Langtitel | Vergesellschaftung in Berlin: Neue Eigentümer, keine neue Wohnung |
+| Kurztitel (Social, max. 40 Zeichen) | Neue Eigentümer, keine neue Wohnung |
+| Beschreibung | 160.000 Wohnungen, bis zu 16 Milliarden Euro Entschädigung – und keine einzige Wohnung zusätzlich. Linke, Grüne und SPD wollen in Berlin große Wohnungskonzerne vergesellschaften. Was würde das für Mieter ändern, was für Wohnungssuchende? Und wie sollen Milliardenkredite bedient werden, wenn die Mieten niedrig bleiben sollen? Eine Analyse mit Zahlen aus dem Sondierungspapier, dem IBB-Wohnungsmarktbericht und Studien von DIW und IMK. |
+| Kurzbeschreibung (Teaser) | 16 Milliarden Euro für 160.000 Wohnungen – aber keine einzige zusätzliche. |
+| Schlagwörter | Vergesellschaftung, Enteignung, Berlin, Mieten, Wohnungsmarkt, Artikel 15, Sondierung, Linke, Grüne, SPD, DIW, IMK |
+| Kategorie | Politik / Analyse |
+| Marke | Ostdeutsche Allgemeine |
+| Format | Infografik-Video, 16:9, 1920 × 1080, 25 fps |
+| Dauer | 3:16 |
+| Sprache | Deutsch |
+| Untertitel | `OAZ_INFO_2026-10_Vergesellschaftung_16x9_v01.srt` (Deutsch) |
+| Thumbnails | `OAZ_INFO_2026-10_Vergesellschaftung_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+| Quellen im Video | Sondierungspapier Linke, Grüne, SPD vom 17.10.2026; dpa; Landeswahlleitung Berlin; IBB-Wohnungsmarktbericht 2025; IMK Policy Brief Nr. 225; DIW aktuell Nr. 126 |
+| Hinweis | Die 640 Mio. € Zinsen pro Jahr sind eine eigene Modellrechnung (16 Mrd. € × angenommene 4 %), im Bild als solche gekennzeichnet. Details: `01_briefing/quellen.md`. |

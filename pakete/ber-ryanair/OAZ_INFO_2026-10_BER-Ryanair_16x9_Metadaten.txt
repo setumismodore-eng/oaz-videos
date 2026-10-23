@@ -1,0 +1,29 @@
+# Metadaten – OAZ_INFO_2026-10_BER-Ryanair_16x9
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | 12 Ziele weniger. Was Berlin am Himmel verliert |
+| Kurztitel (Social, max. 40 Zeichen) | 12 Ziele weniger ab BER |
+| Beschreibung | Zum 24. Oktober schließt Ryanair seine Basis am BER: Sieben Flugzeuge gehen, zwölf Ziele fallen weg – von Gran Canaria bis Vilnius. Die Airline nennt hohe Kosten, doch die Luftverkehrsteuer hat der Bund schon gesenkt. Und der Hauptstadtflughafen liegt ohnehin gut ein Viertel unter dem Stand von 2019. Was der Abzug für Berlin bedeutet, in 90 Sekunden. |
+| Kurzbeschreibung (Teaser) | Ryanair zieht sieben Flugzeuge vom BER ab. Zwölf Ziele fallen weg – und Berlin fliegt ohnehin weit unter Vorkrisenniveau. |
+| Schlagwörter | BER, Ryanair, Flughafen Berlin, Luftverkehr, Luftverkehrsteuer, Billigflieger, Fluggäste, Berlin, Brandenburg, Winterflugplan |
+| Kategorie | Nachrichten / Wirtschaft |
+| Marke | Ostdeutsche Allgemeine |
+| Format | Infografik-Video, 16:9, 1920 × 1080, 25 fps |
+| Dauer | ca. 1:36 |
+| Sprache | Deutsch |
+| Stimme | KI-generiert (ElevenLabs) |
+| Untertitel | `OAZ_INFO_2026-10_BER-Ryanair_16x9_v02.srt` (Deutsch) |
+| Thumbnails | `OAZ_INFO_2026-10_BER-Ryanair_16x9_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+| Video | `OAZ_INFO_2026-10_BER-Ryanair_16x9_v02.mp4` – https://github.com/setumismodore-eng/BLZOAZ/releases/tag/p-ber-ryanair |
+| Veröffentlichung | Vorschlag: bis Samstag, 24. Oktober 2026 (Tag der Basisschließung) |
+
+## Quellen (für die Beschreibung)
+
+- Ryanair, Pressemitteilung vom 24.04.2026 (Basisschließung, 7 Flugzeuge, Prognose 4,5 → 2,2 Mio. Fluggäste)
+- Gestrichene Ziele: Ryanair laut AirHelp (13.10.2026), übereinstimmend OAZ (21.10.2026)
+- Bundesregierung: Senkung der Luftverkehrsteuer zum 1. Juli 2026
+- Amt für Statistik Berlin-Brandenburg: Gewerblicher Luftverkehr 2025 (PM 15/2026) und 1. Halbjahr 2026 (PM 104/2026)
+- „Fast jeder elfte“: OAZ-Berechnung (2,3 Mio. ÷ 26 Mio. Fluggäste 2025)
+
+Hinweis: „Flughafenentgelte +50 % seit Corona“ ist eine Angabe von Ryanair und wird nur im Konjunktiv gesprochen, nicht im Bild gezeigt.

@@ -1,0 +1,20 @@
+# Metadaten – OAZ_INFO_2026-10_Politikerranking_16x9_v02
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | Pistorius vorn, Merz ganz hinten. |
+| Langtitel | INSA-Politikerranking: Pistorius vorn, Merz ganz hinten |
+| Kurztitel (Social, max. 40 Zeichen) | Pistorius vorn, Merz ganz hinten |
+| Beschreibung | Im neuen INSA-Politikerranking stehen weiterhin zwei SPD-Politiker an der Spitze: Verteidigungsminister Boris Pistorius führt mit 5,3 von zehn möglichen Punkten, Mecklenburg-Vorpommerns Ministerpräsidentin Manuela Schwesig rückt auf Platz zwei vor. Außenminister Johann Wadephul zieht an CSU-Chef Markus Söder vorbei, AfD-Chefin Alice Weidel steigt auf Platz acht. Am Ende stehen drei Mitglieder der Bundesregierung – Bundeskanzler Friedrich Merz bleibt Schlusslicht. |
+| Kurzbeschreibung (Teaser) | Schwesig holt auf, Weidel steigt – und drei Regierungsmitglieder bilden das Schlusslicht. |
+| Schlagwörter | INSA, Politikerranking, Umfrage, Boris Pistorius, Manuela Schwesig, Friedrich Merz, Lars Klingbeil, Katharina Reiche, Alexander Schweitzer, Bundesregierung |
+| Kategorie | Politik / Nachricht |
+| Marke | Ostdeutsche Allgemeine |
+| Format | Infografik-Video, 16:9, 1920 × 1080, 25 fps |
+| Dauer | 1:24 |
+| Sprache | Deutsch |
+| Untertitel | `OAZ_INFO_2026-10_Politikerranking_16x9_v02.srt` (Deutsch) |
+| Thumbnails | `OAZ_INFO_2026-10_Politikerranking_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+| Quellen im Video | INSA im Auftrag der „Bild“ |
+| Porträts | Pistorius, Schwesig, Wadephul, Söder, Schweitzer, Klingbeil, Reiche, Merz. Keine Fotos für Özdemir, Wüst, Weidel. |
+| Offen vor Veröffentlichung | Bildnachweise für die Porträts fehlen. Die Ranking-Werte (Plätze, 5,3 und 4,7 Punkte) sind noch nicht gegen die INSA-Veröffentlichung geprüft. Geprüft: Schweitzer wurde am 14. Oktober als Bundesarbeitsminister vereidigt (bundesregierung.de). |
