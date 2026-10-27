@@ -1,0 +1,38 @@
+# Metadaten – BZ_INFO_2026-10_Israel-Wahl_9x16
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | Israel wählt. Wer findet 61 Sitze? |
+| Kurztitel (Social, max. 40 Zeichen) | Israel wählt: Wer findet 61 Sitze? |
+| Beschreibung | Israel wählt am 27. Oktober eine neue Knesset. 120 Abgeordnete, eine Hürde von 3,25 Prozent, 61 Sitze für die Mehrheit. In den letzten Umfragen vom 23. Oktober kommt das Lager von Benjamin Netanjahu auf 50 Sitze, die Opposition um Gadi Eisenkot auf 52 bis 56, die arabischen Parteien auf 14 bis 16. Kein Lager erreicht die Mehrheit allein – entschieden wird deshalb erst in den Koalitionsverhandlungen nach dem amtlichen Ergebnis am 4. November. |
+| Kurzbeschreibung (Teaser) | 120 Sitze, 61 für die Mehrheit – und laut den letzten Umfragen schafft das kein Lager allein. |
+| Schlagwörter | Israel, Knesset, Wahl, Parlamentswahl, Netanjahu, Eisenkot, Koalition, Umfragen, Nahost |
+| Kategorie | Nachrichten / Politik |
+| Marke | Berliner Zeitung |
+| Format | Infografik-Reel, 9:16, 1080 × 1920, 25 fps |
+| Dauer | ca. 1:23 |
+| Sprache | Deutsch |
+| Stimme | KI-generiert (ElevenLabs) |
+| Untertitel | eingebrannt; SRT `BZ_INFO_2026-10_Israel-Wahl_9x16_vNN.srt` (Deutsch) |
+| Video | https://github.com/setumismodore-eng/BLZOAZ/releases/tag/p-israel-wahl |
+| Thumbnails | `BZ_INFO_2026-10_Israel-Wahl_9x16_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+
+## Instagram-Caption
+
+Israel wählt heute ein neues Parlament. Wer regieren will, braucht 61 der 120 Sitze in der Knesset.
+
+Die letzten Umfragen vom Freitag sehen kein Lager bei der Mehrheit: Netanjahus Lager kommt auf 50 Sitze, die Opposition um Gadi Eisenkot auf 52 bis 56, die arabischen Parteien auf 14 bis 16. Entschieden wird deshalb nicht am Wahlabend, sondern in den Koalitionsverhandlungen – das amtliche Ergebnis folgt am 4. November.
+
+Quellen: bpb; Library of Congress; Umfragen von Kan 11, Kanal 12 und Kanal 13 vom 23.10.2026; Israelisches Außenministerium. Stimme: KI-generiert.
+
+#Israel #Knesset #IsraelWahl #Netanjahu #Eisenkot #Nahost #BerlinerZeitung
+
+## Quellen (für die Beschreibung)
+
+- Bundeszentrale für politische Bildung: Parlamentswahl in Israel 2026 (23.10.2026) – Sitze, Sperrklausel, 38 Listen, bis zu 13 mit Chancen, 2022 zehn Listen
+- Library of Congress, In Custodia Legis: FALQs – Israel's Upcoming Election on October 27, 2026 (09.10.2026) – Wahlgesetz § 81, Mehrheit 61, geschäftsführende Regierung
+- Umfragen Kan 11 (Kantar), Kanal 12 (Midgam/iPanel), Kanal 13 (HaMadad u. a.), veröffentlicht 23.10.2026, zusammengefasst von Ynet
+- Israelisches Außenministerium: Ablauf der Regierungsbildung (7 Tage, 28 Tage, bis zu 14 Tage Verlängerung)
+- Al Jazeera, 27.10.2026: amtliches Ergebnis am 4. November
+
+Hinweis: Keine Ergebniszahlen – das Video zeigt nur Wahlrecht und die Umfragen vor der Wahl.
