@@ -1,0 +1,22 @@
+# Quellen · Frankreich-Schulden (OAZ INFO 16:9)
+
+Geprüft am 26.10.2026. Artikel: OAZ, 26.10.2026, Liudmila Kotlyarova, „3,6 Billionen Euro Schulden: Frankreichs Krise bedroht Deutschlands Wirtschaft“, https://ostdeutscheallgemeine.com/article/36-billionen-euro-schulden-frankreichs-krise-bedroht-deutschlands-wirtschaft-10532247 (in diesem Lauf nicht abrufbar; gearbeitet mit den Angaben im Pult und den Primärquellen).
+
+| Zahl im Skript / Bild | Quelle | Stand | Status |
+| --- | --- | --- | --- |
+| Frankreich 119,1 % des BIP; 3.595.525 Mio. € → „knapp 3,6 Billionen €“ | Eurostat, Euro-Indikatoren 21.10.2026 „Government debt at 88.8% of GDP in euro area“, https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-21102026-bp | 2. Quartal 2026 | geprüft |
+| Euroraum 88,8 %; Deutschland 63,4 % (2.924.674 Mio. €) | ebd. | 2. Quartal 2026 | geprüft (Artikel/Euronews nennt für DE nur 62,8 % Jahreswert 2025 – Video nutzt Q2 2026) |
+| Griechenland 140,8 %, Italien 139,9 % – einzige höhere Quoten | ebd. | 2. Quartal 2026 | geprüft |
+| Frankreich vor einem Jahr 115,4 %; +3,7 Prozentpunkte | ebd. | 2. Quartal 2025 | geprüft |
+| Stärkere Anstiege ggü. Vorjahr nur Polen (+6,7), Litauen (+4,9), Belgien (+3,8) → „nur drei Länder in der EU“ | ebd. | 2. Quartal 2026 | geprüft |
+| Rendite zehnjähriger OAT zeitweise über 5 %, höchster Stand seit 2002 | Trading Economics (Höchststand 5,05 % um den 22.10., „highest since July 2002“), https://tradingeconomics.com/france/government-bond-yield ; FXStreet 22.10.2026 („crossed 5% for the first time since 2002“), https://www.fxstreet.com/analysis/frances-10-year-yield-moves-above-510-level-202610220948 | Oktober 2026 | Marktdaten, zwei Quellen übereinstimmend; exakter Wert (5,05–5,14 %) und Spread (152–172 Bp.) schwanken je Quelle → im Bild nur „über 5 %“. Am 26.10. wieder 4,91 %. |
+| Zinsausgaben 79,2 Mrd. € (2026), 91,2 Mrd. € (2027) | Französische Regierung, Dossier de presse „Budget 2027“, Oktober 2026, https://solidarites.gouv.fr/sites/solidarite/files/2026-10/DP-BUDGET-2027.pdf | Haushaltsentwurf | geprüft (Prognose der Regierung) |
+| 43 Mrd. € neue Maßnahmen (Gesamtanstrengung 54 Mrd. €) | ebd. | Haushaltsentwurf 2027 | geprüft |
+| Defizit 5,4 % (2026) → Ziel 5,0 % (2027) | ebd. | Haushaltsentwurf 2027 | geprüft |
+| Schuldenquote 119,3 % (2026) → 121,7 % (2027) | ebd. | Haushaltsentwurf 2027 | geprüft |
+| Exporte nach Frankreich 117,4 Mrd. € (Rang 2); USA 146,2; Niederlande 112,5 | Statistisches Bundesamt, PM Nr. 056 vom Februar 2026, https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/02/PD26_056_51.html | 2025 | geprüft |
+| „rund 250 Mio. € pro Tag“ | Rechnung: 91,2 Mrd. € / 365 = 249,9 Mio. € | 2027 | eigene Rechnung |
+
+**Abweichungen zum Pult-Entwurf:** Das Pult nennt 43 Mrd. € als Einsparung; laut Regierung sind es 43 Mrd. € „neue Maßnahmen“ bei 54 Mrd. € Gesamtanstrengung (Sparen und Steuern) → im Skript „neue Maßnahmen im Umfang von 43 Milliarden Euro“. Rendite 5,14 % und Spread 169 Bp. ließen sich nicht einheitlich belegen → nicht im Bild.
+
+**Nicht verwendet:** Protestzahlen (Innenministerium 410.000 / CGT ~800.000), Politico-Zitate, Defizit 2025 (5,1 %).

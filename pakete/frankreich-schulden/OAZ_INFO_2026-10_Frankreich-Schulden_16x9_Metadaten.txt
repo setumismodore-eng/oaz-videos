@@ -1,0 +1,27 @@
+# Metadaten – OAZ_INFO_2026-10_Frankreich-Schulden_16x9
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | 119 Prozent. Frankreich wird zum Sorgenkind |
+| Kurztitel (Social, max. 40 Zeichen) | Frankreichs Schulden: 119 % des BIP |
+| Beschreibung | Frankreichs Staatsschulden liegen bei 119,1 Prozent der Wirtschaftsleistung – knapp 3,6 Billionen Euro. Im Euroraum stehen nur Griechenland und Italien schlechter da, Deutschland kommt auf 63,4 Prozent. Die Rendite zehnjähriger Staatsanleihen stieg im Oktober zeitweise über fünf Prozent, 2027 rechnet Paris mit 91,2 Milliarden Euro Zinsausgaben – rund 250 Millionen Euro am Tag. Warum das auch Deutschland betrifft: Frankreich ist der zweitwichtigste Abnehmer deutscher Waren. |
+| Kurzbeschreibung (Teaser) | 119 Prozent der Wirtschaftsleistung: Frankreichs Schulden steigen schneller als fast überall in der EU – und Frankreich ist Deutschlands zweitwichtigster Kunde. |
+| Schlagwörter | Frankreich, Staatsschulden, Schuldenquote, Euroraum, Haushalt 2027, Staatsanleihen, Zinsen, Defizit, Export, Eurostat |
+| Kategorie | Nachrichten / Wirtschaft |
+| Marke | Ostdeutsche Allgemeine |
+| Format | Infografik-Video, 16:9, 1920 × 1080, 25 fps |
+| Dauer | ca. 1:36 |
+| Sprache | Deutsch |
+| Stimme | KI-generiert (ElevenLabs) |
+| Untertitel | `OAZ_INFO_2026-10_Frankreich-Schulden_16x9_v01.srt` (Deutsch) |
+| Video | `OAZ_INFO_2026-10_Frankreich-Schulden_16x9_v01.mp4` – https://github.com/setumismodore-eng/BLZOAZ/releases/tag/p-frankreich-schulden |
+| Thumbnails | `OAZ_INFO_2026-10_Frankreich-Schulden_16x9_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+
+## Quellen (für die Beschreibung)
+
+- Eurostat: Euro-Indikatoren vom 21.10.2026, öffentlicher Schuldenstand im 2. Quartal 2026 (Frankreich 119,1 %, Euroraum 88,8 %, Deutschland 63,4 %)
+- Französische Regierung: Haushaltsentwurf 2027, Dossier de presse, Oktober 2026 (Zinsausgaben, Defizit, Schuldenquote, neue Maßnahmen)
+- Trading Economics / Marktdaten: Rendite zehnjähriger französischer Staatsanleihen, Oktober 2026
+- Statistisches Bundesamt: Außenhandel 2025, PM Nr. 056 vom Februar 2026 (Exporte nach Frankreich 117,4 Mrd. €)
+
+Hinweis: „Rund 250 Millionen Euro pro Tag“ ist eigene Rechnung (91,2 Mrd. € / 365 Tage). Die Werte für 2027 sind Planzahlen der französischen Regierung.
