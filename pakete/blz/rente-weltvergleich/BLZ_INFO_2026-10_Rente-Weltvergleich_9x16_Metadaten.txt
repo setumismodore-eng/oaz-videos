@@ -1,0 +1,38 @@
+# Metadaten – BLZ_INFO_2026-10_Rente-Weltvergleich_9x16
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | Platz 25 von 55. Wie gut ist die deutsche Rente? |
+| Kurztitel (Social, max. 40 Zeichen) | Deutsche Rente: Platz 25 von 55 |
+| Beschreibung | Der Global Pension Index 2026 von Marsh und CFA Institute vergleicht 55 Rentensysteme. Deutschland kommt auf 67,9 von 100 Punkten, Note B, Platz 25 – hinter Chile, Saudi-Arabien, Kuwait und Mexiko. Vorn liegen die Niederlande mit 85,8 Punkten. Stark ist Deutschland bei der Höhe der Renten (79,8) und bei Regeln und Aufsicht (78,0), schwach bei der Nachhaltigkeit: 47,2 Punkte, Note D. Dänemark erreicht dort 84,8, die Niederlande 82,6. Wie stark welcher Teil zählt, legen die Herausgeber fest. |
+| Kurzbeschreibung (Teaser) | Gute Noten für die Rente von heute – für die Rente von morgen nur 47,2 von 100 Punkten. |
+| Schlagwörter | Rente, Rentensystem, Global Pension Index, Altersvorsorge, Nachhaltigkeit, Kapitaldeckung, Umlageverfahren, Niederlande, Dänemark |
+| Kategorie | Nachrichten / Wirtschaft |
+| Marke | Berliner Zeitung |
+| Format | Infografik-Reel, 9:16, 1080 × 1920, 25 fps |
+| Dauer | ca. 1:37 |
+| Sprache | Deutsch |
+| Stimme | KI-generiert (ElevenLabs) |
+| Untertitel | eingebrannt; SRT `BLZ_INFO_2026-10_Rente-Weltvergleich_9x16_vNN.srt` (Deutsch) |
+| Video | https://github.com/setumismodore-eng/BLZOAZ/releases/tag/p-rente-weltvergleich |
+| Thumbnails | `BLZ_INFO_2026-10_Rente-Weltvergleich_9x16_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+
+## Instagram-Caption
+
+Platz 25 von 55: So schneidet die deutsche Rente im Global Pension Index 2026 ab. 67,9 von 100 Punkten, Note B – hinter Chile, Saudi-Arabien, Kuwait und Mexiko. Vorn liegen die Niederlande mit 85,8 Punkten.
+
+Für die Rente von heute gibt es gute Noten: 79,8 Punkte bei der Höhe der Leistungen, 78 bei Regeln, Aufsicht und Kosten. Schwach ist Deutschland bei der Frage, ob das System auch in Zukunft trägt: 47,2 Punkte, Note D. Dänemark kommt hier auf 84,8, die Niederlande auf 82,6 – beide setzen stark auf angespartes Kapital.
+
+Ein Ranking sagt nicht alles: Wie stark welcher Teil zählt, legen die Herausgeber fest.
+
+Quelle: Marsh / CFA Institute, Global Pension Index 2026. Stimme: KI-generiert.
+
+#Rente #Altersvorsorge #Rentensystem #GlobalPensionIndex #Generationengerechtigkeit #Wirtschaft #BerlinerZeitung
+
+## Quellen (für die Beschreibung)
+
+- Marsh / CFA Institute: Global Pension Index 2026, Pressemitteilung und Gesamttabelle (20.10.2026) – 55 Systeme, Gesamtwerte, Ränge, Teilwerte
+- Mercer / CFA Institute: Global Pension Index 2022, Highlights – Gewichtung 40/35/25 und Inhalt des Teilindex Nachhaltigkeit
+- Artikel: Oliver Weinlein, Berliner Zeitung, 27.10.2026
+
+Hinweis: Der Index stammt von einer Beratungsfirma und einem Anlegerverband; die Gewichtung ist eine Festlegung der Herausgeber.
