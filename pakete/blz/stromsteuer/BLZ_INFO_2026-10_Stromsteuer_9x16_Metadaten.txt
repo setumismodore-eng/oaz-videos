@@ -1,0 +1,39 @@
+# Metadaten – BLZ_INFO_2026-10_Stromsteuer_9x16
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | 2 Cent von 37. Was die Stromsteuer-Senkung bringt. |
+| Kurztitel (Social, max. 40 Zeichen) | Stromsteuer: 2 Cent von 37 |
+| Beschreibung | Eine Kilowattstunde Strom kostet Haushalte im Schnitt 37,0 Cent (BDEW, August 2026). 41 Prozent entfallen auf Beschaffung und Vertrieb, 25 Prozent auf Netzentgelte, 34 Prozent auf Steuern, Abgaben und Umlagen. Die Stromsteuer beträgt 2,05 Cent je Kilowattstunde. Die Länder fordern, sie für alle auf das EU-Minimum von 0,1 Cent zu senken; Kanzler Merz ist dafür. Mit Mehrwertsteuer sänke der Preis um rund 2,3 Cent – ein Haushalt mit 3.500 Kilowattstunden spart rund 81 Euro im Jahr, wenn die Versorger die Senkung voll weitergeben. Die Einnahmen fehlen dann dem Bund; Finanzminister Klingbeil verlangt eine Gegenfinanzierung. Beschlossen ist die Senkung für Haushalte noch nicht. |
+| Kurzbeschreibung (Teaser) | Die Stromsteuer macht 2,05 von 37 Cent je Kilowattstunde aus. Eine Senkung brächte einem Haushalt rund 81 Euro im Jahr. |
+| Schlagwörter | Stromsteuer, Strompreis, Energiepreise, Netzentgelte, Bundeshaushalt, Merz, Klingbeil, Ministerpräsidentenkonferenz, Entlastung |
+| Kategorie | Nachrichten / Wirtschaft |
+| Marke | Berliner Zeitung |
+| Format | Infografik-Reel, 9:16, 1080 × 1920, 25 fps |
+| Dauer | ca. 1:24 |
+| Sprache | Deutsch |
+| Stimme | KI-generiert (ElevenLabs) |
+| Untertitel | eingebrannt; SRT `BLZ_INFO_2026-10_Stromsteuer_9x16_vNN.srt` (Deutsch) |
+| Video | https://github.com/setumismodore-eng/BLZOAZ/releases/tag/p-stromsteuer |
+| Thumbnails | `BLZ_INFO_2026-10_Stromsteuer_9x16_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+
+## Instagram-Caption
+
+2 Cent von 37: So viel macht die Stromsteuer am Haushaltsstrompreis aus. Eine Kilowattstunde kostet im Schnitt 37,0 Cent. Den größten Teil haben Beschaffung und Vertrieb (41 Prozent) und die Netzentgelte (25 Prozent). Steuern, Abgaben und Umlagen kommen zusammen auf 34 Prozent.
+
+Die Länder fordern, die Stromsteuer für alle auf das EU-Minimum von 0,1 Cent zu senken. Mit Mehrwertsteuer wären das rund 2,3 Cent weniger je Kilowattstunde – bei 3.500 Kilowattstunden rund 81 Euro im Jahr, wenn die Versorger die Senkung voll weitergeben. Das Geld fehlt dann dem Bund. Beschlossen ist die Senkung für Haushalte noch nicht.
+
+Quellen: BDEW-Strompreisanalyse August 2026, Stromsteuergesetz, EU-Richtlinie 2003/96/EG, Ministerpräsidentenkonferenz 22.10.2026; Ersparnis eigene Berechnung. Stimme: KI-generiert.
+
+#Stromsteuer #Strompreis #Energiepreise #Netzentgelte #Bundeshaushalt #Wirtschaft #BerlinerZeitung
+
+## Quellen (für die Beschreibung)
+
+- BDEW: Strompreisanalyse August 2026 – Haushaltsstrompreis 37,0 ct/kWh und Zusammensetzung
+- Stromsteuergesetz § 3 – Regelsatz 20,50 €/MWh (2,05 ct/kWh)
+- EU-Richtlinie 2003/96/EG – Mindestsatz Strom, nichtbetrieblich, 1,0 €/MWh (0,1 ct/kWh)
+- Ministerpräsidentenkonferenz, Beschluss vom 22.10.2026; Lars Klingbeil, 22.10.2026 (ZDFheute)
+- Ersparnis: eigene Berechnung (2,05 − 0,1) × 1,19 × 3.500 kWh
+- Artikel: Matthias Hochstätter, Ostdeutsche Allgemeine, 27.10.2026
+
+Hinweis: KI-Stimme (ElevenLabs). Quellen: BDEW 08/2026; StromStG; EU-RL 2003/96/EG; MPK 22.10.2026. Express-Produktion ohne redaktionelle Freigabe.
