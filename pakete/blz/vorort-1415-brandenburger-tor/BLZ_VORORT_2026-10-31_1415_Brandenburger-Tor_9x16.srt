@@ -1,16 +1,16 @@
 1
-00:00:01,000 --> 00:00:03,320
+00:00:04,000 --> 00:00:06,320
 Brandenburger Tor, 14:15 Uhr.
 
 2
-00:00:03,470 --> 00:00:07,920
+00:00:06,470 --> 00:00:10,920
 Die Demo „Gen Z regelt“ beginnt, die Stimmung ist gut.
 
 3
-00:00:08,070 --> 00:00:11,240
+00:00:11,070 --> 00:00:14,240
 Viele eint der Wunsch nach Veränderung.
 
 4
-00:00:11,390 --> 00:00:14,050
+00:00:14,390 --> 00:00:17,050
 Erwartet werden bis zu 10.000 Menschen.
 
