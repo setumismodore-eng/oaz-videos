@@ -13,6 +13,7 @@
 | Dauer | ca. 1:40 |
 | Sprache | Deutsch |
 | Stimme | KI-generiert (ElevenLabs) |
+| Foto | Titeltafel und Thumbnails: IMAGO |
 | Untertitel | eingebrannt; SRT `BLZ_INFO_2026-11_Beitragsgrenzen_9x16_vNN.srt` (Deutsch) |
 | Video | https://github.com/setumismodore-eng/BLZOAZ/releases/tag/p-beitragsgrenzen-2027 |
 | Thumbnails | `BLZ_INFO_2026-11_Beitragsgrenzen_9x16_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
@@ -25,7 +26,7 @@ Unter 5.812,50 Euro brutto ändert sich nichts. Ab 6.375 Euro sind es rund 59 Eu
 
 Auch der Wechsel in die private Krankenversicherung wird schwerer: Die Versicherungspflichtgrenze steigt von 77.400 auf 84.150 Euro im Jahr. Der Bundesrat muss noch zustimmen.
 
-Quellen: Bundesregierung und Deutsche Rentenversicherung, Sozialversicherungsrechengrößen 2027 (Kabinett 7.10.2026); BMG, durchschnittlicher Zusatzbeitrag 2027; eigene Berechnung. Stimme: KI-generiert.
+Quellen: Bundesregierung und Deutsche Rentenversicherung, Sozialversicherungsrechengrößen 2027 (Kabinett 7.10.2026); BMG, durchschnittlicher Zusatzbeitrag 2027; eigene Berechnung. Foto: IMAGO. Stimme: KI-generiert.
 
 #Sozialversicherung #Beitragsbemessungsgrenze #Krankenversicherung #Rente #Gehalt #Netto #Wirtschaft #BerlinerZeitung
 
@@ -37,4 +38,4 @@ Quellen: Bundesregierung und Deutsche Rentenversicherung, Sozialversicherungsrec
 - Mehrbeträge: eigene Berechnung, Arbeitnehmeranteil, Beitragssätze 2026 (KV 14,6 % + 2,9 %, PV 3,6 % mit Kind, RV 18,6 %, ALV 2,6 %)
 - Artikel: Oliver Weinlein, Berliner Zeitung, 29.10.2026
 
-Hinweis: KI-Stimme (ElevenLabs). Quellen: Bundesregierung/DRV, Rechengrößen 2027; BMG 30.10.2026; eigene Berechnung. Express-Produktion ohne redaktionelle Freigabe.
+Hinweis: KI-Stimme (ElevenLabs). Quellen: Bundesregierung/DRV, Rechengrößen 2027; BMG 30.10.2026; eigene Berechnung. Foto: IMAGO. Express-Produktion ohne redaktionelle Freigabe.
