@@ -1,0 +1,40 @@
+# Metadaten – BLZ_INFO_2026-11_Beitragsgrenzen_9x16
+
+| Feld | Inhalt |
+| --- | --- |
+| Titel | 102 Euro mehr Abzug im Monat. Wen die neuen Beitragsgrenzen treffen. |
+| Kurztitel (Social, max. 40 Zeichen) | Beitragsgrenzen 2027: 102 Euro mehr |
+| Beschreibung | Ab Januar 2027 steigen die Beitragsbemessungsgrenzen der Sozialversicherung: in der Kranken- und Pflegeversicherung von 5.812,50 auf 6.375 Euro brutto im Monat – darin 300 Euro Sonderanhebung –, in der Renten- und Arbeitslosenversicherung von 8.450 auf 8.850 Euro. Wer unter 5.812,50 Euro verdient, zahlt nichts drauf. Ab 6.375 Euro brutto sind es rund 59 Euro mehr im Monat, ab 8.850 Euro knapp 102 Euro, rund 1.221 Euro im Jahr (eigene Berechnung mit den Beitragssätzen 2026, Beschäftigte mit Kind, durchschnittlicher Zusatzbeitrag; Kinderlose zahlen etwas mehr). Ein Teil kommt über eine geringere Lohnsteuer zurück. Ein Kassenwechsel mit einem Prozentpunkt weniger Zusatzbeitrag spart an der neuen Grenze knapp 32 Euro im Monat. Die Versicherungspflichtgrenze steigt von 77.400 auf 84.150 Euro im Jahr. Der Bundesrat muss der Verordnung noch zustimmen. |
+| Kurzbeschreibung (Teaser) | Ab Januar steigen die Beitragsgrenzen. Wer 8.850 Euro brutto oder mehr verdient, zahlt knapp 102 Euro mehr Sozialbeiträge im Monat. |
+| Schlagwörter | Beitragsbemessungsgrenze, Sozialversicherung, Krankenversicherung, Rente, Netto, Gehalt, Zusatzbeitrag, Versicherungspflichtgrenze, 2027 |
+| Kategorie | Nachrichten / Wirtschaft |
+| Marke | Berliner Zeitung |
+| Format | Infografik-Reel, 9:16, 1080 × 1920, 25 fps |
+| Dauer | ca. 1:40 |
+| Sprache | Deutsch |
+| Stimme | KI-generiert (ElevenLabs) |
+| Untertitel | eingebrannt; SRT `BLZ_INFO_2026-11_Beitragsgrenzen_9x16_vNN.srt` (Deutsch) |
+| Video | https://github.com/setumismodore-eng/BLZOAZ/releases/tag/p-beitragsgrenzen-2027 |
+| Thumbnails | `BLZ_INFO_2026-11_Beitragsgrenzen_9x16_THUMB-Titel.png` (Standard), `…_THUMB.png` (ohne Text) |
+
+## Instagram-Caption
+
+Knapp 102 Euro mehr Sozialbeiträge – jeden Monat. Ab Januar 2027 steigen die Beitragsbemessungsgrenzen: in der Kranken- und Pflegeversicherung von 5.812,50 auf 6.375 Euro brutto im Monat, in der Renten- und Arbeitslosenversicherung von 8.450 auf 8.850 Euro.
+
+Unter 5.812,50 Euro brutto ändert sich nichts. Ab 6.375 Euro sind es rund 59 Euro mehr im Monat, ab 8.850 Euro knapp 102 Euro – rund 1.221 Euro im Jahr. Gerechnet mit den heutigen Beitragssätzen für Beschäftigte mit Kind; Kinderlose zahlen etwas mehr. Ein Teil kommt über eine geringere Lohnsteuer zurück.
+
+Auch der Wechsel in die private Krankenversicherung wird schwerer: Die Versicherungspflichtgrenze steigt von 77.400 auf 84.150 Euro im Jahr. Der Bundesrat muss noch zustimmen.
+
+Quellen: Bundesregierung und Deutsche Rentenversicherung, Sozialversicherungsrechengrößen 2027 (Kabinett 7.10.2026); BMG, durchschnittlicher Zusatzbeitrag 2027; eigene Berechnung. Stimme: KI-generiert.
+
+#Sozialversicherung #Beitragsbemessungsgrenze #Krankenversicherung #Rente #Gehalt #Netto #Wirtschaft #BerlinerZeitung
+
+## Quellen (für die Beschreibung)
+
+- Bundesregierung: Beitragsbemessungsgrenzen 2027 (Kabinettsbeschluss Sozialversicherungsrechengrößen-Verordnung 2027, 7.10.2026)
+- Deutsche Rentenversicherung: Meldung „Beitragsbemessungsgrenzen 2027 sollen steigen“, 8.10.2026
+- Bundesministerium für Gesundheit: durchschnittlicher Zusatzbeitragssatz 2027 = 2,9 %, 30.10.2026
+- Mehrbeträge: eigene Berechnung, Arbeitnehmeranteil, Beitragssätze 2026 (KV 14,6 % + 2,9 %, PV 3,6 % mit Kind, RV 18,6 %, ALV 2,6 %)
+- Artikel: Oliver Weinlein, Berliner Zeitung, 29.10.2026
+
+Hinweis: KI-Stimme (ElevenLabs). Quellen: Bundesregierung/DRV, Rechengrößen 2027; BMG 30.10.2026; eigene Berechnung. Express-Produktion ohne redaktionelle Freigabe.
