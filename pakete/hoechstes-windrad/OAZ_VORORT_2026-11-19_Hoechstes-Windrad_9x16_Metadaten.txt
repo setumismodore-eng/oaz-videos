@@ -3,7 +3,7 @@
 - Marke: OAZ (Ostdeutsche Allgemeine)
 - Form: Bericht (Reportage vor Ort), 9:16
 - Dauer: 1:20
-- Datum: 19. November 2026 (korrigierte Fassung v02 vom 20. November 2026)
+- Datum: 19. November 2026 (korrigierte Fassung v03 vom 20. November 2026)
 - Reporterin: Carola Tunk
 - Produziert mit: BLZ/OAZ Kommentare & Berichte (Mac mini), Video 2026-11-19_hoechstes_windrad_der_welt
 
@@ -23,10 +23,15 @@ Windrad, Höhenwindturm, Schipkau, Lausitz, Windenergie, Energiewende, Brandenbu
 
 ## Bildnachweis
 
-Video und Drohnenbilder: OAZ / Carola Tunk. Foto Windpark Klettwitz: IMAGO/Rainer Weisflog. Karte: Natural Earth (gemeinfrei).
+Video und Drohnenbilder: OAZ / Carola Tunk. Foto Windpark Klettwitz: IMAGO (im Bild nur „IMAGO“, Fotograf laut Bilddaten Rainer Weisflog). Karte: Natural Earth (gemeinfrei).
 
 ## Korrekturen v02 (20. November 2026)
 
 - Untertitel bei 1:16: „sichtbar“ ergänzt.
 - Foto (Windpark) steht still, kein Schwenk.
 - Vor der End-Card blitzt der Take nicht mehr auf.
+
+## Korrekturen v03 (20. November 2026)
+
+- Bildnachweis im Video wieder nur „IMAGO“ (Vorgabe Oliver).
+- Schnitte an Wortgrenzen nachgezogen: kein angeschnittenes Wort mehr bei 0:51 und 1:00.
