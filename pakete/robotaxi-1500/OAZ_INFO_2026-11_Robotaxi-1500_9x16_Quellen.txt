@@ -1,0 +1,29 @@
+# Quellen · Robotaxi 1.500 (Stand 24.11.2026, am Produktionstag geprüft)
+
+Vorlage: Ostdeutsche Allgemeine, Oliver Weinlein, 23.11.2026 – „Tesla will im Osten eine Million Robotaxis bauen – die EU erlaubt bislang nur 1500“ (https://ostdeutscheallgemeine.com/article/tesla-will-im-osten-eine-million-robotaxis-bauen-die-eu-erlaubt-bislang-nur-1500-10625694). Der Artikel war für diesen Lauf nicht abrufbar; gearbeitet wurde mit den Angaben im Pult und den Quellen unten.
+
+## Geprüft
+
+| Zahl / Aussage | Quelle | Stand |
+| --- | --- | --- |
+| Kleinserie EU-Typgenehmigung: höchstens **1.500** Einheiten je Fahrzeugtyp und Jahr (M1, N1; M2/M3, N2/N3 für vollautomatisierte Fahrzeuge „1500 ab dem 6. Dezember 2022“) | VO (EU) 2018/858, Anhang V Teil A Nr. 1 (Art. 41) – https://gesetze.legal/eu/vo_eu_2018_858/anhang_v | geltendes Recht |
+| Level-4-Fahrzeuge per EU-Typgenehmigung „bislang aber nur in Kleinserie (bis zu 1.500 Fahrzeuge)“; Kleinserie „auf eine maximale Zulassungszahl von 1.500 Stück pro Jahr in der EU begrenzt“ | Wissenschaftliche Dienste des Bundestags, „Autonomes Fahren – Rechtslage und Markteinführung in Deutschland“, WD 5 - 3000 - 038/26, WD 7 - 3000 - 022/26, S. 5 und 14 – https://www.bundestag.de/resource/blob/1194930/WD-5-038-26-WD-7-022-26.pdf | 28.05.2026 |
+| ADS-Typgenehmigung für vollautomatisierte Fahrzeuge der Klassen M und N (Betrieb „ohne Überwachung durch einen Fahrer“) | DVO (EU) 2022/1426 vom 05.08.2022, Art. 1 und 2 – ABl. L 221 vom 26.08.2022 | |
+| KBA erteilt EU-Typgenehmigungen für Level-4-Fahrzeuge „in small series production“ | KBA – https://www.kba.de/EN/Themen_en/Typgenehmigung_en/Autonomes_automatisiertes_Fahren_en/EU_Typgenehmigung_en/eu_typgenehmigung_node_en.html | |
+| Kommission: Rechtsvorschriften für Serien ohne Begrenzung „bis Juli 2024 weiterzuentwickeln“ (Antwort Breton auf E-001676/2022, 04.07.2022); bis heute gilt die Kleinserie | WD Bundestag (s. o.), S. 14–15, Fn. 32; Handelsblatt 20.11.2026 („höchstens 1500 je Typ und Jahr“) | |
+| Tesla: bis zu **eine Million** Cybercabs pro Jahr in Grünheide, zunächst **3 Mrd. €**, Baubeginn erstes Halbjahr **2027**, Produktion **2029**; angekündigt von Werksleiter André Thierig am **16.11.2026** | Auto Bild, 19.11.2026 (https://www.autobild.de/artikel/tesla-baut-cybercab-fabrik-in-deutschland-28908725.html); Handelsblatt, 20.11.2026 (https://www.handelsblatt.com/unternehmen/industrie/tesla-eine-drei-milliarden-fabrik-fuer-ein-auto-ohne-zulassung-01/100270671.html); info-aktuell, 16.11.2026 | Unternehmensangabe |
+| Zitat Thierig: „Sonst bauen wir sehr schnell sehr viele Briefbeschwerer.“ (falls keine Gesetze für vollautonome Autos kommen) | Handelsblatt, 20.11.2026 | |
+| Deutschland: seit 2021 Gesetz zum autonomen Fahren; ohne Fahrer „nur in festgelegten und vorab genehmigten Betriebsbereichen“, mit „technischer, mit Menschen besetzter Aufsicht“, die anhalten bzw. Manöver „von außen freigeben“ kann | ADAC, „Gesetz zum autonomen Fahren“ (05.03.2025) – https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/recht/gesetz-zum-autonomen-fahren/ ; StVG §§ 1d–1g | geltendes Recht |
+| Cybercab ohne Lenkrad | tink.de, „Tesla plant in Grünheide eine Cybercab-Fabrik für Autos ohne Lenkrad“; Pult-Angabe | |
+
+## Eigene Berechnung
+
+- 1.000.000 ÷ 1.500 = 666,7 → „rund das 667-Fache“. Raster im Video: 29 × 23 = 667 Felder, eines im Akzent.
+
+## Nicht im Video (Express: nicht an Primärquelle belegt oder zu unsicher)
+
+- 3.500 neue Jobs – in keiner geprüften Quelle; Tesla macht laut info-aktuell keine Angaben.
+- 12.600 Beschäftigte, 7.600 Model Y pro Woche (nur Medienberichte, für die Aussage nicht nötig).
+- Bauantrag Ende 2026 (nur info-aktuell).
+- Großserien-Zulassung „bis 2029“ (nur Branchenberichte, nichts beschlossen).
+- Hallengröße 536.000 m² (Tesla laut Auto Bild) bzw. 500.000 m² (Tagesspiegel laut info-aktuell) – widersprüchlich.
